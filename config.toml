@@ -1,4 +1,4 @@
-baseURL = "devguyio.github.io"
+baseURL = "https://devguy.io"
 title   = "Ahmed Abdalla"
 languageCode = "en-us"
 theme = "hello-friend-ng"
@@ -54,7 +54,7 @@ disableHugoGeneratorInject = false
   dateformNumTime = "2006-01-02 15:04 -0700"
 
   # Metadata mostly used in document's head
-  description = "Nice theme for homepages and blogs"
+  description = "Ahmed Abdalla (@devguyio) Home Page "
   keywords = ""
   images = [""]
 
@@ -113,7 +113,7 @@ disableHugoGeneratorInject = false
 
 [languages]
   [languages.en]
-    subtitle  = "Hello Friend NG Theme"
+    subtitle  = "(@devguyio) Home Page"
     weight    = 1
     copyright = '<a href="https://creativecommons.org/licenses/by-nc/4.0/" target="_blank" rel="noopener">CC BY-NC 4.0</a>'
 
