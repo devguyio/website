@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Ahmed Abdalla</title>
-    <link>www.devguy.io/</link>
+    <link>https://www.devguy.io/</link>
     <description>Recent content on Ahmed Abdalla</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
     <lastBuildDate>Sun, 28 Jun 2020 22:34:25 +0200</lastBuildDate>
     
-	<atom:link href="www.devguy.io/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://www.devguy.io/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>About Me</title>
-      <link>www.devguy.io/about/</link>
+      <link>https://www.devguy.io/about/</link>
       <pubDate>Sun, 28 Jun 2020 22:34:25 +0200</pubDate>
       
-      <guid>www.devguy.io/about/</guid>
+      <guid>https://www.devguy.io/about/</guid>
       <description>Name: Ahmed Abdalla
 Occupation: Principal Software Engineer
 Employer: Red Hat
