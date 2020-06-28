@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Ahmed Abdalla</title>
+    <link>https://example.com/</link>
+    <description>Recent content on Ahmed Abdalla</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>&lt;a href=&#34;https://creativecommons.org/licenses/by-nc/4.0/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;CC BY-NC 4.0&lt;/a&gt;</copyright>
+    <lastBuildDate>Sun, 28 Jun 2020 22:34:25 +0200</lastBuildDate>
+    
+	<atom:link href="https://example.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>About Me</title>
+      <link>https://example.com/about/</link>
+      <pubDate>Sun, 28 Jun 2020 22:34:25 +0200</pubDate>
+      
+      <guid>https://example.com/about/</guid>
+      <description>Name: Ahmed Abdalla
+Occupation: Principal Software Engineer
+Employer: Red Hat
+Location: Germany
+A principal software engineer at Red Hat who&amp;rsquo;s part of the Knative Eventing team. My area of interest is the intersection of Linux, distributed systems and eventing systems. I&amp;rsquo;ve found my sweet spot in Knative, Kubernetes and the Cloud Native ecosystem.
+I live among the high level distributed systems architecture design and low level system daemons with a focus on code quality, and team productivity.</description>
+    </item>
+    
+  </channel>
+</rss>
